@@ -164,32 +164,6 @@ temperature,humidity,pressure,wind_speed,precipitation,cloud_cover,target
 - 3 classes (0, 1, 2)
 - Weather-related data
 
-## Key Concepts for Beginners
-
-1. **Flask Routes**
-   - Think of routes as different pages or actions in your web app
-   - `@app.route('/')` is the home page
-   - `methods=['POST']` means the route handles form submissions
-
-2. **Templates**
-   - HTML files that define how your web pages look
-   - Use `{{ variable }}` to display Python variables
-   - Use `{% if condition %}` for conditional content
-
-3. **Forms**
-   - HTML forms collect user input
-   - `method="POST"` sends data to the server
-   - `action="/predict"` specifies which route handles the form
-
-4. **Machine Learning**
-   - Models learn patterns from data
-   - Training: Model learns from examples
-   - Prediction: Model applies learned patterns to new data
-
-5. **File Handling**
-   - CSV files store data in a table format
-   - Each row is a sample
-   - Each column is a feature or target
 
 ## Installation and Setup
 
