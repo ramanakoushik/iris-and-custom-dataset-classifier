@@ -1,4 +1,4 @@
-# Iris and Custom Classification Web Application
+# Iris and Custom Classification Web Application using scikit learn and flask
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
